@@ -8,8 +8,8 @@ const Sidebar = () => {
         <Image width="80px" height="40px" src="https://i.ibb.co/HBHqS1y/evRvi.png" alt="sidebar logo" />
         <ul>
           <Link href="/" passHref><li>Home</li></Link>
-          <Link href="/about" passHref><li>About</li></Link>
-          <Link href="/contact" passHref><li>Contact</li></Link>
+          <Link href="/HomeCleaning" passHref><li>Home & Cleaning</li></Link>
+          <Link href="/airFreshner" passHref><li>AirFreshner</li></Link>
         </ul>
     </div>
   );
