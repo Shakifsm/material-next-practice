@@ -14,15 +14,23 @@ const HomeCleaning = () => {
                         <Grid container spacing={2}>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/air-fresheners?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35234&q=best&v=1&m=400&webp=1" alt="homeCleaning"></Image>
+                                <br />
+                                <span>Air Fresheners</span>
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/dish-detergents?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D83456&q=best&v=1&m=400&webp=1" alt="homeCleaning"></Image>
+                                <br />
+                                <span>Dish Detergents</span>
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/cleaning-supplies?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D83458&q=low&v=1&m=400&webp=1" alt="homeCleaning"></Image>
+                                <br />
+                                <span>Cleaning Supplies</span>
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/napkins-paper-products?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D35249&q=low&v=1&m=400&webp=1" alt="homeCleaning"></Image>
+                                <br />
+                                <span>Napkins & Paper Products</span>
                             </Grid>
                         </Grid>
                     </Grid>

@@ -17,24 +17,32 @@ const AirFreshner = () => {
                             <Grid item lg={3} >
                                 
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/odonil-air-freshener-mix-fragrance-buy-3-get-1-free-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86109&q=low&v=1&m=400&webp=1" alt="homeCleaning"></Image>
-                                <br />
-                                <button>Add To Cart</button>
+                                <p>Odonil Air Freshener Mix Fragrance (Buy 3 Get 1 Free)</p>
+                                <p><small>50 gm</small></p>
+                                <h5>৳ 135</h5>
+                                <button>Add To Bag</button>
                                 
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/odonil-air-freshener-block-lavender-meadows-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86106&q=low&v=1&m=400&webp=1" alt="homeCleaning"></Image>
-                                <br />
-                                <button>Add To Cart</button>
+                                <p>Odonil Air Freshener Block Lavender Meadows</p>
+                                <p><small>50 gm</small></p>
+                                <h5>৳ 45</h5>
+                                <button>Add To Bag</button>
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/odonil-air-freshener-block-orchid-dew-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D87862&q=best&v=1&m=400&webp=1" alt="homeCleaning"></Image>
-                                <br />
-                                <button>Add To Cart</button>
+                                <p>Odonil Air Freshener Block Jasmine Mist</p>
+                                <p><small>50 gm</small></p>
+                                <h5>৳ 55</h5>
+                                <button>Add To Bag</button>
                             </Grid>
                             <Grid item lg={3}>
                                 <Image height="150" width="150" src="https://chaldn.com/_mpimage/odonil-air-freshener-block-jasmine-mist-50-gm?src=https%3A%2F%2Feggyolk.chaldal.com%2Fapi%2FPicture%2FRaw%3FpictureId%3D86105&q=low&v=1&m=400&webp=1" alt="homeCleaning"></Image>
-                                <br />
-                                <button>Add To Cart</button>
+                                <p>Odonil Air Freshener Block Jasmine Mist</p>
+                                <p><small>50 gm</small></p>
+                                <h5>৳ 70</h5>
+                                <button>Add To Bag</button>
                             </Grid>
                         </Grid>
                 </Grid>
